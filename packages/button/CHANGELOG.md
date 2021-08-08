@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.1](https://github.com/mateusrdgs/frontiao-ui/compare/@frontiao/button@0.2.0...@frontiao/button@0.2.1) (2021-08-08)
+
+
+### Bug Fixes
+
+* logging hello world on button init ([c6acb76](https://github.com/mateusrdgs/frontiao-ui/commit/c6acb7674e66a85704337a9d593203fa2e32fdca))
+
+
+
+
+
 # 0.2.0 (2021-08-08)
 
 
