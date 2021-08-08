@@ -1,0 +1,13 @@
+{
+  "bootstrap": {
+    "npmClientArgs": [
+      "--no-package-lock"
+    ]
+  },
+  "hoist": true,
+  "packages": [
+    "packages/*"
+  ],
+  "stream": true,
+  "version": "0.0.0"
+}
