@@ -7,7 +7,7 @@ const Badge = ({ className, ...props }) => {
     })
 
     return (
-        <div className={classNames} {...props} />
+        <div {...props} className={classNames} />
     )
 }
 
