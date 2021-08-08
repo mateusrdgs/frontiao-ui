@@ -4,10 +4,10 @@
       "--no-package-lock"
     ]
   },
-  "hoist": true,
   "packages": [
     "packages/*"
   ],
   "stream": true,
+  "useWorkspaces": true,
   "version": "independent"
 }
