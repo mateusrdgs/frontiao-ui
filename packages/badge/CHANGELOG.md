@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.3.0](https://github.com/mateusrdgs/frontiao-ui/compare/@frontiao/badge@0.2.1...@frontiao/badge@0.3.0) (2021-08-09)
+
+
+### Features
+
+* adding a log to test package build ([43fc70e](https://github.com/mateusrdgs/frontiao-ui/commit/43fc70e2555d4a9014ccebc94dae86244be84d89))
+
+
+
+
+
 ## [0.2.1](https://github.com/mateusrdgs/frontiao-ui/compare/@frontiao/badge@0.2.0...@frontiao/badge@0.2.1) (2021-08-09)
 
 **Note:** Version bump only for package @frontiao/badge

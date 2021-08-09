@@ -1,6 +1,6 @@
 {
   "name": "@frontiao/badge",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "> TODO: description",
   "author": "Mateus Rodrigues <devrdgs@gmail.com>",
   "homepage": "https://github.com/mateusrdgs/frontiao-ui#readme",
@@ -31,6 +31,6 @@
     "react-dom": "^17.0.2"
   },
   "devDependencies": {
-    "@frontiao/builder": "^0.0.0"
+    "@frontiao/builder": "^0.0.1"
   }
 }
