@@ -20,7 +20,7 @@
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1",
-    "prepare": "builder"
+    "prepare": "pwd"
   },
   "bugs": {
     "url": "https://github.com/mateusrdgs/frontiao-ui/issues"
@@ -33,5 +33,5 @@
   "devDependencies": {
     "@frontiao/builder": "^0.1.1"
   },
-  "gitHead": "f72d3e0a57ccbfc900ce19ad006c823d16a80609"
+  "gitHead": "3df820a2ace03c89a423396f65260dace5aa5358"
 }
