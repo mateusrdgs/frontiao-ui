@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.1.0](https://github.com/mateusrdgs/frontiao-ui/compare/@frontiao/builder@0.0.3...@frontiao/builder@0.1.0) (2021-08-09)
+
+
+### Features
+
+* added status messages to builder ([45ad4ac](https://github.com/mateusrdgs/frontiao-ui/commit/45ad4acdcb69245805fb6ebde43fa8b73ed935f6))
+
+
+
+
+
 ## [0.0.3](https://github.com/mateusrdgs/frontiao-ui/compare/@frontiao/builder@0.0.2...@frontiao/builder@0.0.3) (2021-08-09)
 
 **Note:** Version bump only for package @frontiao/builder
