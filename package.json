@@ -4,6 +4,9 @@
   "devDependencies": {
     "lerna": "^4.0.0"
   },
+  "scripts": {
+    "prepare": "echo \"Root prepare\""
+  },
   "workspaces": {
     "packages": [
       "packages/*"
