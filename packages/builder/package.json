@@ -1,0 +1,36 @@
+{
+  "name": "@frontiao/builder",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Mateus Rodrigues <devrdgs@gmail.com>",
+  "homepage": "https://github.com/mateusrdgs/frontiao-ui#readme",
+  "license": "ISC",
+  "private": true,
+  "bin": {
+    "builder": "./webpack/webpack.prod.js"
+  },
+  "directories": {
+    "webpack": "webpack"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mateusrdgs/frontiao-ui.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mateusrdgs/frontiao-ui/issues"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.15.0",
+    "@babel/preset-env": "^7.15.0",
+    "@babel/preset-react": "^7.14.5",
+    "babel-loader": "^8.2.2",
+    "clean-webpack-plugin": "^4.0.0-alpha.0",
+    "mini-css-extract-plugin": "^2.2.0",
+    "webpack": "^5.49.0",
+    "webpack-cli": "^4.7.2",
+    "webpack-merge": "^5.8.0"
+  }
+}
