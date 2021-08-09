@@ -3,13 +3,10 @@
 const path = require('path')
 const { CleanWebpackPlugin } = require('clean-webpack-plugin')
 const MiniCssExtractPlugin = require('mini-css-extract-plugin')
-const { merge } = require('webpack-merge')
 
 const webpack = require('webpack')
 
-const common = require('./webpack.common')
-
-const config = merge(common, {
+const config = {
   entry: path.resolve(process.cwd(), 'lib', 'index.js'),
   output: {
     filename: 'index.js',
@@ -61,7 +58,7 @@ const config = merge(common, {
       filename: 'index.css'
     }),
   ],
-})
+}
 
 const build = async () => {
   return new Promise((resolve, reject) => {
