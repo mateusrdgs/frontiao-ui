@@ -64,10 +64,14 @@ const build = async () => {
   return new Promise((resolve, reject) => {
     const compiler = webpack(config)
 
+    console.log('BUILDING')
+
     compiler.run((err) => {
       if (err) {
+        console.log('ERROR')
         reject(err)
       }
+      console.log('SUCCESS')
       resolve(true)
     })
   })
