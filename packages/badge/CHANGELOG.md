@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.3.1](https://github.com/mateusrdgs/frontiao-ui/compare/@frontiao/badge@0.3.0...@frontiao/badge@0.3.1) (2021-08-09)
+
+
+### Bug Fixes
+
+* testing prepare script again ([c1f6e6f](https://github.com/mateusrdgs/frontiao-ui/commit/c1f6e6ff3bc0ccc51e75c9c3d0daf218d4127ca2))
+
+
+
+
+
 # [0.3.0](https://github.com/mateusrdgs/frontiao-ui/compare/@frontiao/badge@0.2.1...@frontiao/badge@0.3.0) (2021-08-09)
 
 
