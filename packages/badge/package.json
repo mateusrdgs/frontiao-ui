@@ -32,5 +32,6 @@
   },
   "devDependencies": {
     "@frontiao/builder": "^0.0.1"
-  }
+  },
+  "gitHead": "1dfa655ae6dc2206662d545b186232a997fde6d2"
 }
