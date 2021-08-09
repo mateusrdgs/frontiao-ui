@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.1](https://github.com/mateusrdgs/frontiao-ui/compare/@frontiao/builder@0.1.0...@frontiao/builder@0.1.1) (2021-08-09)
+
+
+### Bug Fixes
+
+* removed prepare script from badge ([6442acb](https://github.com/mateusrdgs/frontiao-ui/commit/6442acb4c5c72fe2ef196c87517d5ade1c2f4e97))
+
+
+
+
+
 # [0.1.0](https://github.com/mateusrdgs/frontiao-ui/compare/@frontiao/builder@0.0.3...@frontiao/builder@0.1.0) (2021-08-09)
 
 
