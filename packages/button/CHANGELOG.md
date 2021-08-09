@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.5](https://github.com/mateusrdgs/frontiao-ui/compare/@frontiao/button@0.2.4...@frontiao/button@0.2.5) (2021-08-09)
+
+
+### Bug Fixes
+
+* testing another kind of version interpolation ([4bdc212](https://github.com/mateusrdgs/frontiao-ui/commit/4bdc212030a0986d5c2f591c5b128aad93ddc927))
+
+
+
+
+
 ## [0.2.4](https://github.com/mateusrdgs/frontiao-ui/compare/@frontiao/button@0.2.3...@frontiao/button@0.2.4) (2021-08-09)
 
 
