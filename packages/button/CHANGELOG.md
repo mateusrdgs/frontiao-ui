@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.3.0](https://github.com/mateusrdgs/frontiao-ui/compare/@frontiao/button@0.2.6...@frontiao/button@0.3.0) (2021-08-10)
+
+
+### Features
+
+* building button ([3c1517d](https://github.com/mateusrdgs/frontiao-ui/commit/3c1517d5d2fe48cd6ee8a04ef0b8a5e96eb3e3b7))
+
+
+
+
+
 ## [0.2.6](https://github.com/mateusrdgs/frontiao-ui/compare/@frontiao/button@0.2.5...@frontiao/button@0.2.6) (2021-08-09)
 
 **Note:** Version bump only for package @frontiao/button
