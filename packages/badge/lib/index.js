@@ -1,7 +1,7 @@
 import React from 'react'
 import classnames from 'classnames'
 
-console.log('testing build again 3')
+console.log('testing build again 4')
 
 const Badge = ({ className, ...props }) => {
     const classNames = classnames('badge', {
