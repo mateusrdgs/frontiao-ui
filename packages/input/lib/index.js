@@ -13,7 +13,8 @@ const Input = ({ className, onSave, ...props }) => {
 
   const onTodoSave = useCallback(() => {
     onSave(value)
-  }, [value, onSave])
+    setValue('')
+  }, [setValue, value, onSave])
 
   return (
     <div>
