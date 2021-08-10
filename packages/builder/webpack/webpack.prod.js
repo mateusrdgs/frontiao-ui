@@ -7,7 +7,7 @@ const MiniCssExtractPlugin = require('mini-css-extract-plugin')
 const webpack = require('webpack')
 
 const config = {
-  entry: path.resolve(process.cwd(), 'lib', 'index.js'),
+  entry: path.resolve(process.cwd(), 'lib'),
   output: {
     filename: 'index.js',
     path: path.resolve(process.cwd(), 'build'),
