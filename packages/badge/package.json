@@ -20,7 +20,7 @@
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1",
-    "prepare": "pwd"
+    "prepare": "../../node_modules/.bin/builder"
   },
   "bugs": {
     "url": "https://github.com/mateusrdgs/frontiao-ui/issues"
