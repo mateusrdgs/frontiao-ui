@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.4.0](https://github.com/mateusrdgs/frontiao-ui/compare/@frontiao/badge@0.3.7...@frontiao/badge@0.4.0) (2021-08-10)
+
+
+### Features
+
+* testing react hook and removed lib folder from package.json files key ([95a2753](https://github.com/mateusrdgs/frontiao-ui/commit/95a27537ae3ef8f73dbe0d14ab4a56b7da2136fc))
+
+
+
+
+
 ## [0.3.7](https://github.com/mateusrdgs/frontiao-ui/compare/@frontiao/badge@0.3.6...@frontiao/badge@0.3.7) (2021-08-10)
 
 
