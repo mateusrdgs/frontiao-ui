@@ -1,9 +1,9 @@
 .task {
   align-items: center;
   display: inline-flex;
-  justify-content: center;
   list-style: none;
   position: relative;
+  width: 100%;
 
   & > .input {
     opacity: 0;
