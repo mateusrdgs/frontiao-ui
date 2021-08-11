@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.3](https://github.com/mateusrdgs/frontiao-ui/compare/@frontiao/task@0.1.2...@frontiao/task@0.1.3) (2021-08-11)
+
+
+### Bug Fixes
+
+* updating task style ([979d619](https://github.com/mateusrdgs/frontiao-ui/commit/979d619e01268cf506a7447c897e3b4050807aa4))
+
+
+
+
+
 ## [0.1.2](https://github.com/mateusrdgs/frontiao-ui/compare/@frontiao/task@0.1.1...@frontiao/task@0.1.2) (2021-08-10)
 
 
