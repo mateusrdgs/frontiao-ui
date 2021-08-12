@@ -24,9 +24,12 @@
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1",
-    "prepare": "../../node_modules/.bin/builder"
+    "prepublishOnly": "builder"
   },
   "bugs": {
     "url": "https://github.com/mateusrdgs/frontiao-ui/issues"
+  },
+  "devDependencies": {
+    "@frontiao/builder": "^0.1.2"
   }
 }
