@@ -30,5 +30,8 @@
   },
   "devDependencies": {
     "@frontiao/builder": "^0.1.2"
+  },
+  "dependencies": {
+    "@frontiao/button": "^0.3.1"
   }
 }
