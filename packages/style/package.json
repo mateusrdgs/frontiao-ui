@@ -5,15 +5,11 @@
   "author": "Mateus Rodrigues <devrdgs@gmail.com>",
   "homepage": "https://github.com/mateusrdgs/frontiao-ui#readme",
   "license": "ISC",
-  "main": "lib/index.js",
-  "module": "build/index.js",
-  "style": "build/index.css",
+  "style": "build/style/index.scss",
   "directories": {
-    "lib": "lib",
     "test": "__tests__"
   },
   "files": [
-    "lib",
     "build"
   ],
   "publishConfig": {
@@ -25,12 +21,9 @@
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1",
-    "prepublishOnly": "builder"
+    "prepublishOnly": "rm -rf build && mkdir build && cp -r lib/* build"
   },
   "bugs": {
     "url": "https://github.com/mateusrdgs/frontiao-ui/issues"
-  },
-  "devDependencies": {
-    "@frontiao/builder": "^0.1.2"
   }
 }
