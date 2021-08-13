@@ -5,7 +5,7 @@
   "author": "Mateus Rodrigues <devrdgs@gmail.com>",
   "homepage": "https://github.com/mateusrdgs/frontiao-ui#readme",
   "license": "ISC",
-  "style": "build/style/index.scss",
+  "style": "build",
   "directories": {
     "test": "__tests__"
   },
