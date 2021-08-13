@@ -1,5 +1,7 @@
+@import '@frontiao-ui/style/index.css';
+
 .header {
-    background-color: #27ae60;
+    background-color: var(--color-primary);
     color: white;
     padding: 16px 24px;
 }
