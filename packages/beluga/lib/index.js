@@ -2,7 +2,7 @@ import React from 'react'
 
 const Beluga = () => {
     return (
-        <div>beluga</div>
+        <div>this is a new beluga</div>
     )
 }
 
