@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.2.0](https://github.com/mateusrdgs/frontiao-ui/compare/@frontiao/input@0.1.3...@frontiao/input@0.2.0) (2021-08-13)
+
+
+### Features
+
+* created style package ([3db87ee](https://github.com/mateusrdgs/frontiao-ui/commit/3db87eed7e4b529d2802eefa7d732634f980a2a1))
+
+
+
+
+
 ## [0.1.3](https://github.com/mateusrdgs/frontiao-ui/compare/@frontiao/input@0.1.2...@frontiao/input@0.1.3) (2021-08-12)
 
 **Note:** Version bump only for package @frontiao/input
