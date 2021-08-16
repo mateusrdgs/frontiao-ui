@@ -1,6 +1,6 @@
 {
   "name": "@frontiao/task",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "> TODO: description",
   "author": "Mateus Rodrigues <devrdgs@gmail.com>",
   "homepage": "https://github.com/mateusrdgs/frontiao-ui#readme",
@@ -30,6 +30,6 @@
     "url": "https://github.com/mateusrdgs/frontiao-ui/issues"
   },
   "devDependencies": {
-    "@frontiao/builder": "^0.1.2"
+    "@frontiao/builder": "^0.1.3"
   }
 }

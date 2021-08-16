@@ -1,6 +1,6 @@
 {
   "name": "@frontiao/button",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "description": "> TODO: description",
   "author": "Mateus Rodrigues <devrdgs@gmail.com>",
   "homepage": "https://github.com/mateusrdgs/frontiao-ui#readme",
@@ -34,6 +34,6 @@
     "react-dom": "^17.0.2"
   },
   "devDependencies": {
-    "@frontiao/builder": "^0.1.2"
+    "@frontiao/builder": "^0.1.3"
   }
 }
