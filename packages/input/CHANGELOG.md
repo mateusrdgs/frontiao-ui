@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.4](https://github.com/mateusrdgs/frontiao-ui/compare/@frontiao/input@0.2.3...@frontiao/input@0.2.4) (2021-08-16)
+
+**Note:** Version bump only for package @frontiao/input
+
+
+
+
+
 ## [0.2.3](https://github.com/mateusrdgs/frontiao-ui/compare/@frontiao/input@0.2.2...@frontiao/input@0.2.3) (2021-08-16)
 
 
