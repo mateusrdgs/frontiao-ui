@@ -6,11 +6,15 @@
   "homepage": "https://github.com/mateusrdgs/frontiao-ui#readme",
   "license": "ISC",
   "bin": {
-    "builder": "./webpack/webpack.prod.js"
+    "builder": "./index.js"
   },
   "directories": {
     "webpack": "webpack"
   },
+  "files": [
+    "index.js",
+    "webpack"
+  ],
   "publishConfig": {
     "access": "public"
   },

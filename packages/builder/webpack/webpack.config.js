@@ -1,16 +1,16 @@
-#!/usr/bin/env node
-
 const path = require('path')
 const { CleanWebpackPlugin } = require('clean-webpack-plugin')
 const MiniCssExtractPlugin = require('mini-css-extract-plugin')
 
 const webpack = require('webpack')
 
+const cwd = process.cwd()
+
 const config = {
-  entry: path.resolve(process.cwd(), 'lib'),
+  entry: path.resolve(cwd, 'lib'),
   output: {
     filename: 'index.js',
-    path: path.resolve(process.cwd(), 'build'),
+    path: path.resolve(cwd, 'build'),
     library: {
       type: 'umd'
     }
@@ -60,21 +60,4 @@ const config = {
   ],
 }
 
-const build = async () => {
-  return new Promise((resolve, reject) => {
-    const compiler = webpack(config)
-
-    console.log('BUILDING')
-
-    compiler.run((err) => {
-      if (err) {
-        console.log('ERROR')
-        reject(err)
-      }
-      console.log('SUCCESS')
-      resolve(true)
-    })
-  })
-}
-
-build()
+module.exports = config
