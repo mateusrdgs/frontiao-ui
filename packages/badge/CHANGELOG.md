@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.4.4](https://github.com/mateusrdgs/frontiao-ui/compare/@frontiao/badge@0.4.3...@frontiao/badge@0.4.4) (2021-08-16)
+
+
+### Bug Fixes
+
+* commiting gitHead to run publish again ([337acb7](https://github.com/mateusrdgs/frontiao-ui/commit/337acb786551236db6f092618db501c30a011c4f))
+
+
+
+
+
 ## [0.4.3](https://github.com/mateusrdgs/frontiao-ui/compare/@frontiao/badge@0.4.2...@frontiao/badge@0.4.3) (2021-08-16)
 
 **Note:** Version bump only for package @frontiao/badge

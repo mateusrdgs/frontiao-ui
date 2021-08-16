@@ -1,6 +1,6 @@
 {
   "name": "@frontiao/input",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "> TODO: description",
   "author": "Mateus Rodrigues <devrdgs@gmail.com>",
   "homepage": "https://github.com/mateusrdgs/frontiao-ui#readme",
@@ -29,10 +29,10 @@
     "url": "https://github.com/mateusrdgs/frontiao-ui/issues"
   },
   "devDependencies": {
-    "@frontiao/builder": "^0.1.3"
+    "@frontiao/builder": "^0.1.4"
   },
   "dependencies": {
-    "@frontiao/style": "^0.1.2"
+    "@frontiao/style": "^0.1.3"
   },
   "gitHead": "1d68492e1db1f9f95970d69d5da5bbc518b9ad21"
 }
